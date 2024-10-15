@@ -2,7 +2,7 @@ import requests
 import json
 import base64  
 # APIキーを設定
-API_KEY = 'AIzaSyDWWxchX2ef3EcjQ2UBoIRcCgK38XBHYAM'
+API_KEY = 'your key'
 
 # リクエストのURL
 url = f'https://vision.googleapis.com/v1/images:annotate?key={API_KEY}'
